@@ -9,7 +9,7 @@ tags: symmetry optimization
 
 Hello, world!
 
-![](/img/table_test.png)
+![](/img/test_table.png)
 
 <!--more-->
 
