@@ -44,8 +44,8 @@ title-img: "/img/house.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: AM
-  # email: "josh.silverman@gmail.com"
+  name: Julian McCracken
+  email: "julian1955@aol.com"
 #   github:     # eg. daattali
 #   twitter:    # eg. daattali
 
@@ -54,7 +54,7 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -69,8 +69,8 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: false
 
