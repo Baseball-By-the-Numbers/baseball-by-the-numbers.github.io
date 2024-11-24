@@ -1,44 +1,15 @@
 ---
 layout: post
 published: true
-title: Stable tiles
-date: 2024/11/17
-subtitle: How to defy the laws of physics in service of age 3+ entertainment.
+title: My first post
+date: 2024/11/23
+subtitle: I'm trying this out
 tags: symmetry optimization
 ---
 
->**Question**: My kids love Magna-Tiles. After some time playing around with them myself, I began to appreciate how they always seem to stick together, regardless of how they are rotated—a property I wouldn’t typically associate with magnets.
->
->Every magnet has a north pole and a south pole. If you have two magnets and put their two north poles together, they repel. But rotate one of the magnets, and now you have a north pole near a south pole, so they’ll attract.
->
->But Magna-Tiles are somehow impervious to rotation. Put one square tile on top of another and they stick together very well. Rotate one of the squares 90 degrees, they still stick. Flip one over, they still stick.
->
->The tiles even stick together (though not as strongly) when placed side by side. Again, rotating or flipping a tile results in the same attraction.
->
->Clearly, the eight magnets embedded along each square’s perimeter must be very cleverly oriented.
->
->Consider the diagram below, which shows eight magnets along a square tile’s perimeter, labeled A through H in a counterclockwise manner. The tile lies in the $x-y$ plane, and the $z-$axis is coming out of the screen toward you.
->
->![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8d559f1-75fa-4177-8d6a-ee2cd0c694c7_1296x880.png){:width="350 px" class="image-centered"}
->
->Given the square tiles’ imperviousness to rotation, what must the orientation of these eight magnets be? For each tile, you should describe the direction from its south pole to its north pole. (More than one answer is possible here.)
->
->**Extra credit**
->When you place one square Magna-Tile perfectly atop another, they stick together really well. Suppose each square has side length 1 unit and a thickness of $0.1$ units.
->
->We can model each tile’s eight magnets as monopoles that are either “north” or “south.” (Yes, I know magnetic monopoles don’t exist, but they’re a sufficient approximation for the following puzzle.) Let’s also assume these monopoles are points, rather than bars. They lie on each edge, one- and three-quarters of the way from one end to the other.
->![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdff3aa5-4976-4965-8805-f9faaf52193e_966x804.png){:width="350 px" class="image-centered"}
->
->Assume that the energy between any two magnetic monopoles is $q_1q_2/r$, where $r$ is the distance between them, and $q_i$ is $+1$ for “north” and $-1$ for “south.”
->
->When one square lies in a plane directly above another (i.e., the planes are parallel and vertically separated by a distance of $0.1$), the lowest-energy arrangement is when the top square is directly above the bottom one. This arrangement is stable, meaning a slight translation or rotation of either square won’t lower the energy. You should assign north vs. south polarity to each monopole on the bottom square based on your work in this week’s Fiddler. The corresponding monopoles on the top square should have the opposite polarity, so that the two squares stick together. If you did this correctly, you should be able to confirm that this arrangement has a magnetic energy between the squares of approximately $-54.27$. (Note: This figure does not include any magnetic energy within a square.)
->
->Your Extra Credit challenge is to determine the stable arrangement with the next-lowest energy. Again, you should assume that the monopoles from one square and the other are vertically separated by $0.1$, but that the squares are otherwise free to translate or rotate in their respective planes.
->
->What is this next-best arrangement, and what is its corresponding magnetic energy between the squares?
->
->(Hint: If you have any Magna-Tiles at home, try making different arrangements with one atop the other and seeing when they stick together.)
+Hello, world!
 
+![](/img/table_test.png)
 
 <!--more-->
 
